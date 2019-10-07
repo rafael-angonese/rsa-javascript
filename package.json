@@ -1,0 +1,22 @@
+{
+  "name": "rsa-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rsa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafael-angonese/rsa-javascript.git"
+  },
+  "author": "Rafael Angonese",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafael-angonese/rsa-javascript/issues"
+  },
+  "homepage": "https://github.com/rafael-angonese/rsa-javascript#readme",
+  "dependencies": {
+    "big-integer": "^1.6.47"
+  }
+}
